@@ -1,5 +1,5 @@
-Jaketheme Nesta theme
-=====================
+NestaPress blogging theme
+=========================
 
 ### Customisable, responsive blogging theme for the Nesta CMS.
 
