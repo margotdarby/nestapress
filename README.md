@@ -3,7 +3,7 @@ NestaPress blogging theme
 
 ### Customisable, responsive blogging theme for the Nesta CMS.
 
-NestaPress is a theme for Nesta, a [Ruby CMS](http://effectif.com/nesta). It is designed and built by Jake Rayson as a general purpose blogging theme for his webiste <http://www.jrayson.co.uk>, incorporating such delights as:
+NestaPress is a theme for Nesta, a [Ruby CMS](http://effectif.com/nesta). It is (being) designed and built by Jake Rayson as a general purpose blogging theme for his webiste <http://www.jrayson.co.uk>, incorporating such delights as:
 
 
 * Responsive, HTML5, blah de blah  
